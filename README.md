@@ -1,6 +1,6 @@
 # My Hardware Projects
 
-Hey! I'm a high school freshman interested in hardware engineering and computer chips. This is where I'm tracking the stuff I build while I learn how microcontrollers and circuits work.
+I'm a high school freshman interested in hardware engineering and computer chips. This is where I'm tracking the stuff I build while I learn how microcontrollers and circuits work.
 
 ## What I've Built So Far
 
