@@ -8,4 +8,4 @@ Hey! I'm a high school freshman interested in hardware engineering and computer 
 * **What it does:** Just a basic test to make sure I can talk to a microchip. It makes an LED blink on and off every second.
 * **How I made it:** Used Autodesk Tinkercad to simulate the circuit and wrote some basic C++ code to control the pin timing.
 * **What I learned:** Figured out how to read a basic schematic and use delay functions in code so I don't burn out a real bulb.
-<img width="2939" height="1603" alt="image" src="https://github.com/user-attachments/assets/d4b33471-01d9-447e-981a-85af6a26fa3c" />
+<img width="2940" height="1405" alt="image" src="https://github.com/user-attachments/assets/c5bea6c2-9fb4-4cc6-80c6-cda76ae83501" />
