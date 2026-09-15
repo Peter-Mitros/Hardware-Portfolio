@@ -3,4 +3,4 @@
 ###  Foundational Knowledge
 * **iDEA Intel Badges:** Completed the technical skills tracks backed by Intel to understand microcontrollers and digital systems.
 
-[View Intel iDEA Certificate](projects/Intel-idea.pdf)
+[View Intel iDEA Certificate](projects/Intel-idea.pdf?raw=true)
