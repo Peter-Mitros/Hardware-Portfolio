@@ -3,7 +3,8 @@
 ### iDEA (Inspiring Digital Enterprise Award)
 I am actively completing technical and digital tracks backed by Intel to understand microcontrollers, digital systems, and artificial intelligence frameworks.
 
-* **[Click Here to Open/Download My Full PDF Certificate](projects/Intel-idea.pdf)**
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eec0b4f8-0803-4579-9bb6-e4f7e2c7a31c" />
+
 
 ---
 
