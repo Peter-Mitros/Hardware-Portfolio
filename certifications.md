@@ -3,10 +3,6 @@
 ### iDEA (Inspiring Digital Enterprise Award)
 I am actively completing technical and digital tracks backed by Intel to understand microcontrollers, digital systems, and artificial intelligence frameworks.
 
-<img width="826" height="582" alt="Screenshot 2026-09-15 at 8 46 54 PM" src="https://github.com/user-attachments/assets/70ae0544-70f0-46a5-ba03-c6af9c57f491" />
-
-
-
 ---
 
 ## Technical Skills & Badges Earned
@@ -20,3 +16,5 @@ I am actively completing technical and digital tracks backed by Intel to underst
 
 ### Project Management & Data
 * **AI Project Cycle:** Mastered the steps of data acquisition, visual data representation, and agile project workflows.
+
+<img width="826" height="582" alt="Screenshot 2026-09-15 at 8 46 54 PM" src="https://github.com/user-attachments/assets/d09a2cd1-060a-4120-9be0-d3fe4a64d4ab" />
