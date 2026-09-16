@@ -12,7 +12,7 @@ I'm a high school freshman interested in hardware engineering and computer chips
 
 ### 1. Virtual Blinking LED (First Circuit)
 
-This is where I've tracked my projects and how they've evolved over time throughout my courses, starting with simple projects and ending with complex, rigorous tasks. 
+This is where I've tracked my projects and watched them evolve over time-from simple, basic coding to more complex and rigorous engineering projects. 
 * [1. Virtual Blinking LED (First Circuit)](projects/blinking-led.md)
 #### Source Code
 * [View the C++ Code File (main.cpp)](projects/main.cpp)
