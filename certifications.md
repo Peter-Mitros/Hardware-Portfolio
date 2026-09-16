@@ -3,7 +3,8 @@
 ### iDEA (Inspiring Digital Enterprise Award)
 I am actively completing technical and digital tracks backed by Intel to understand microcontrollers, digital systems, and artificial intelligence frameworks.
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eec0b4f8-0803-4579-9bb6-e4f7e2c7a31c" />
+<img width="826" height="582" alt="Screenshot 2026-09-15 at 8 46 54 PM" src="https://github.com/user-attachments/assets/70ae0544-70f0-46a5-ba03-c6af9c57f491" />
+
 
 
 ---
