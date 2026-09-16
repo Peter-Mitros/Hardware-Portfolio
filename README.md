@@ -6,7 +6,7 @@ I'm a high school freshman interested in hardware engineering and computer chips
 
 ## Certifications: 
 * **iDEA Intel Badges** — Completed foundational technical tracks in computer architecture, AI inference, and digital systems.
-  * [👉 View Full Badge Breakdown & Certificate Details](certifications.md)
+  * [View Full Badge Breakdown & Certificate Details](certifications.md)
 
 ## On My Own Time:
 
