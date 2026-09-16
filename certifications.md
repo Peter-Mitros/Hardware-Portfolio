@@ -1,7 +1,7 @@
 # My Technical Certifications
 
 ### iDEA (Inspiring Digital Enterprise Award)
-I am actively completing technical and digital tracks backed by Intel to understand microcontrollers, digital systems, and artificial intelligence frameworks.
+I am actively completing technical and digital tracks developed in partnership with Intel. This specialized curriculum focuses on foundational computer architecture, modern microcontrollers, and artificial intelligence frameworks.
 
 ---
 
