@@ -12,7 +12,7 @@ I'm a high school freshman interested in hardware engineering and computer chips
 
 ### 1. Virtual Blinking LED (First Circuit)
 
-I'm a high school freshman interested in hardware engineering and computer chips. This is where I've tracked the stuff I build while I learn how microcontrollers and circuits work.
+This is where I've tracked my projects and how they've evolved over time throughout my courses, starting with simple projects and ending with complex, rigorous tasks. 
 * [1. Virtual Blinking LED (First Circuit)](projects/blinking-led.md)
 #### Source Code
 * [View the C++ Code File (main.cpp)](projects/main.cpp)
