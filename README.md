@@ -1,21 +1,36 @@
-# My High School Hardware Projects
+# Hardware Engineering Portfolio
 
-I'm a high school freshman interested in hardware engineering and computer chips. This is where I'm tracking the stuff I build while I learn how microcontrollers and circuits work.
+I'm a high school student interested in hardware engineering and computer chips. This portfolio documents the projects, coursework, and technical skills I develop throughout high school and college.
 
-## What I've Built So Far
+---
 
-## Certifications: 
-* **iDEA Intel Badges** — Completed foundational technical tracks in computer architecture, AI inference, and digital systems.
-  * [View Full Badge Breakdown & Certificate Details](certifications.md)
+## High School
 
-## On My Own Time:
+### Freshman Year
 
-### 1. Virtual Blinking LED (First Circuit)
+- [Personal Projects](High%20School/Freshman%20Year/Personal%20Projects)
+- [PLTW & Engineering Coursework](High%20School/Freshman%20Year/PLTW)
 
-This is where I've tracked my projects and watched them evolve over time-from simple, basic coding to more complex and rigorous engineering projects. 
-* [1. Virtual Blinking LED (First Circuit)](projects/blinking-led.md)
-#### Source Code
-* [View the C++ Code File (main.cpp)](projects/main.cpp)
+---
 
+## College
 
-## In My PLTW Engineering Course(s):
+*College projects and coursework will be added here as I progress through my education.*
+
+---
+
+## Certifications & Technical Learning
+
+- [Certifications & Technical Learning](certifications.md)
+
+---
+
+## Skills & Tools
+
+A running list of hardware, software, programming languages, and engineering tools I've learned to use.
+
+---
+
+## About This Portfolio
+
+This portfolio is a record of how my engineering skills develop over time — from early experiments and school projects to increasingly complex hardware and engineering work.
