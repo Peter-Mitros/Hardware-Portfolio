@@ -6,7 +6,7 @@ Projects I've designed, built, or explored independently outside of my regular c
 
 ## Freshman Year
 
-### [Virtual Blinking LED]
+### Virtual Blinking LED
 
 My first circuit project, using C++ to control a digital output and blink an LED at a set interval.
 
