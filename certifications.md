@@ -1,4 +1,4 @@
-# Technical Learning and Certifications
+# Technical Learning & Certifications
 
 ### iDEA (Inspiring Digital Enterprise Award)
 I have completed technical learning programs and digital badges developed in partnership with Intel, building skills in understanding and using artificial intelligence, computer. science, problem-solving, and engineering related technologies.
