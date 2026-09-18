@@ -28,6 +28,9 @@ I'm a high school student interested in hardware engineering and computer chips.
 ## Skills & Tools
 
 A running list of hardware, software, programming languages, and engineering tools I've learned to use.
+* **Programming:** C++
+* **CAD & Engineering:** Tinkercad, PLTW Engineering
+* **Developer Tools:** GitHub, CAD resource sites
 
 ---
 
