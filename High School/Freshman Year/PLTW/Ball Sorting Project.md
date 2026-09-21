@@ -3,7 +3,7 @@
 This prototype was built for a design challenge in the Introduction to Engineering Design (IED) curriculum. The objective was to create a reliable system that sorts and collects small spheres into two separate containers to maximize the final performance score.
 
 ## Performance Summary
-* **System Accuracy:** 92% successful distribution rate across all testing trials. 
+* **System Accuracy:** 92% successful distribution rate across 10 testing trials and a live demonstration. 
 
 ## Project Specs
 
