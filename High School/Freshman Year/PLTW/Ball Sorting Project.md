@@ -22,11 +22,6 @@ This prototype was built for a design challenge in the Introduction to Engineeri
 ## Media & Documentation
 Below are the visual reference files documenting the physical layout and structural assembly:
 
-![Project Overview - Top Angle]
-*Figure 1: Front-facing view highlighting cup alignment and spacing.*
-
-![Project Overview - Side Profile]
-*Figure 2: Side view detailing the elevation drop and the popsicle stick track angle.*
 
 ## Testing & Troubleshooting
 * **Initial Problem:** Glue was not allowed to be used in construction, and the popsicle sticks weren't entirely measured properly to be able to make a perfecly accurate ramp
