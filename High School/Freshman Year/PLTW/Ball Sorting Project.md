@@ -31,11 +31,13 @@ Below are the visual reference files documenting the physical layout and structu
 
 
 ## Testing & Troubleshooting
-* **Initial Problem:** Glue was not allowed to be used in construction 
+* **Initial Problem:**
+* Glue was not allowed to be used in construction 
 * The popsicle sticks weren't entirely measured properly to be able to make a perfecly accurate ramp
-* **Implemented Solution:** Cut and measured small pieces of tape and rolled it to substitue for glue
+* **Implemented Solution:**
+* Cut and measured small pieces of tape and rolled it to substitue for glue
 
-  Marked where the sticks would go, then used a razor to perfectly cut precise parts of the sticks off for a more perfect ramp
+* Marked where the sticks would go, then used a razor to perfectly cut precise parts of the sticks off for a more perfect ramp
 
 ## Future Improvements
 If given the opportunity for a secondary design iteration, the following changes would be made:
