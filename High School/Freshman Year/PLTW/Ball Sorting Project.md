@@ -22,7 +22,7 @@ This prototype was built for a design challenge in the Introduction to Engineeri
 
 ## Media & Documentation
 Below are the visual reference files documenting the physical layout and structural assembly:
-Top-Down View
+### Top-Down View
 <img width="549" height="551" alt="Screenshot 2026-09-20 at 9 51 49 PM" src="https://github.com/user-attachments/assets/4250e26d-1a11-40cc-95ba-7c115680c401" />
 ### 3/4 View
 <img width="551" height="412" alt="Screenshot 2026-09-21 at 4 44 16 PM" src="https://github.com/user-attachments/assets/bc5c8b5d-2ee6-4e23-b40f-003c4e3d7ee0" />
