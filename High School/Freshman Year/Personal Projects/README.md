@@ -1,15 +1,23 @@
+
+pjmitros@icloud.com
+8:13 PM (0 minutes ago)
+to me
+
+
 # Personal Projects
 
-Welcome to my personal engineering projects! This section showcases projects I build independently to explore hardware, programming, and engineering concepts beyond my coursework.
+Welcome to my personal engineering projects! This section showcases projects I've built independently to explore programming, hardware, and engineering concepts.
 
 ## Freshman Year
 
-### Virtual Blinking LED
-A programming project exploring the fundamentals of controlling an LED through code.
+### [Virtual Blinking LED (First Circuit)](./Virtual%20Blinking%20LED/)
 
-- **Technologies:** C++
-- **Project:** [View Project](./VirtualBlinkingLED/)
+My first circuit project, using Tinkercad and C++ to simulate an LED blinking on and off.
+
+- **What I learned:** Basic circuit schematics, programming logic, and delay functions.
+- **Tools:** Tinkercad, C++
+- **[View Project](./Virtual%20Blinking%20LED/)**
 
 ---
 
-More personal projects will be added as I continue learning and developing my engineering skills.
+More projects will be added as I continue developing my engineering skills.
