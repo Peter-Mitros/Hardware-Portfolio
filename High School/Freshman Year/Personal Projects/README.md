@@ -4,7 +4,7 @@ Welcome to my personal engineering projects! This section showcases projects I'v
 
 ## Freshman Year
 
-### [Virtual Blinking LED (First Circuit)](./Virtual%20Blinking%20LED/)
+### [Virtual Blinking LED (First Circuit)
 
 My first circuit project, using Tinkercad and C++ to simulate an LED blinking on and off.
 
