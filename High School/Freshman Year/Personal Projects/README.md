@@ -1,9 +1,3 @@
-
-pjmitros@icloud.com
-8:13 PM (0 minutes ago)
-to me
-
-
 # Personal Projects
 
 Welcome to my personal engineering projects! This section showcases projects I've built independently to explore programming, hardware, and engineering concepts.
