@@ -6,10 +6,7 @@ I'm a high school student interested in hardware engineering and computer chips.
 
 ## High School
 
-### Freshman Year
-
-- [Personal Projects](High%20School/Freshman%20Year/Personal%20Projects)
-- [PLTW & Engineering Coursework](High%20School/Freshman%20Year/PLTW)
+[High School](./High%20School/)
 
 ---
 
