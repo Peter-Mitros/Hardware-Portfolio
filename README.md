@@ -1,6 +1,6 @@
 # Hardware Engineering Portfolio
 
-I'm a high school student interested in hardware engineering and computer chips. This portfolio documents the projects, coursework, and technical skills I develop throughout high school and college.
+I'm a high school student interested in hardware engineering and computer architecture. This portfolio documents the projects, coursework, and technical skills I develop throughout high school and college.
 
 ---
 
