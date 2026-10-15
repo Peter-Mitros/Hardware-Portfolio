@@ -10,3 +10,5 @@ A prototype built for the Introduction to Engineering Design (IED) curriculum. T
 
 - **Performance:** 92% successful distribution rate across 10 testing trials and a live demonstration.
 - **Skills:** Engineering design, prototyping, testing, and iterative improvement.
+
+**[View Project](./Ball%20Sorting%20Project.md)**
