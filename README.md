@@ -24,10 +24,19 @@ I'm a high school student interested in hardware engineering and computer archit
 
 ## Skills & Tools
 
-A running list of hardware, software, programming languages, and engineering tools I've learned to use.
-* **Programming:** C++
-* **CAD & Engineering:** Tinkercad, PLTW Engineering
-* **Developer Tools:** GitHub and CAD developing sites (e.g. tinkercad)
+### Engineering & CAD
+* **Autodesk Fusion:** Primary tool for 3D modeling, parametric design, and component assemblies.
+* **Technical Sketching:** Proficient in hand-drawn and digital isometric sketches for initial concept layout and spatial planning.
+* **Engineering Drawings:** Experienced in creating standard 3-view orthographic (multiview) projections through PLTW courses, including precise dimensioning, hidden lines, and centerlines.
+* **Tinkercad:** Used for foundational 3D design concepts before transitioning to professional engineering software.
+
+### Programming & Software
+* **Languages:** C++
+* **Developer Tools:** GitHub
+
+### Learning Objectives
+* **Printed Circuit Board (PCB) Design:** Currently learning **KiCad** to bridge mechanical design with electronics, focusing on schematic capture, component footprint routing, and generating manufacturing files (Gerbers).
+
 
 ---
 
