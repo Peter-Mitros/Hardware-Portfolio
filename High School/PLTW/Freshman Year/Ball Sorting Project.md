@@ -44,3 +44,7 @@ If given the opportunity for a secondary design iteration, the following changes
 * Move the popsicle sticks from laying flat to laying sideways to ensure more accurate sorting (small balls would fall more easily)
 * Make a feature that allows easy access once the balls have been sorted for multiple tries
 
+## Initial Planning 
+Excerpts from a planning sheet to document original possibilities for solutions to complete the project.
+[Scanned Document 2.pdf](https://github.com/user-attachments/files/33603579/Scanned.Document.2.pdf)
+
