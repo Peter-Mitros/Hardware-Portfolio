@@ -46,5 +46,7 @@ If given the opportunity for a secondary design iteration, the following changes
 
 ## Initial Planning 
 Excerpts from a planning sheet to document original possibilities for solutions to complete the project.
-[Scanned Document 2.pdf](https://github.com/user-attachments/files/33603579/Scanned.Document.2.pdf)
+
+<img width="960" height="1268" alt="image" src="https://github.com/user-attachments/assets/84978b6b-07b4-4888-915a-2329213387b8" />
+
 
