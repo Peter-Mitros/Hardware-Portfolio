@@ -24,6 +24,6 @@ This project involved designing a custom ND logo keychain in Autodesk Fusion acc
 
 | Isometric View | Multiview Drawing |
 |---|---|
-<img width="2400" height="866" alt="isometric-view" src="https://github.com/user-attachments/assets/3092cedd-be21-4977-a590-7e5775fc04c7" 
- |<img width="1138" height="736" alt="image" src="https://github.com/user-attachments/assets/844a51d6-86ba-4ab6-ad65-fb580d7593a7" />
-|
+|<img width="2400" height="866" alt="isometric-view" src="https://github.com/user-attachments/assets/3092cedd-be21-4977-a590-7e5775fc04c7" |
+
+ |<img width="1138" height="736" alt="image" src="https://github.com/user-attachments/assets/844a51d6-86ba-4ab6-ad65-fb580d7593a7" />|
