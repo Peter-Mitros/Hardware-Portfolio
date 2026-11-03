@@ -15,6 +15,8 @@ A prototype built for the Introduction to Engineering Design (IED) curriculum. T
 
 ### 1.2.6 Charmed Project
 
-Develop and design a small charm based off a costumer's preference and choice in Autodesk Fusion. 
+Develop and design a small charm based off a customer's preference and choice in Autodesk Fusion.
 
-* **[Custom Keychain & Charm Design](./High School/keychain-project/)** - A user-centric parametric CAD project built in Autodesk Fusion.
+* **Skills:** Parametric modeling, dimensional constraints, CAD technical drawings.
+
+[View Project](../Keychain-Project/)
