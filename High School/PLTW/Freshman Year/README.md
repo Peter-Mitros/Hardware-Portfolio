@@ -12,3 +12,9 @@ A prototype built for the Introduction to Engineering Design (IED) curriculum. T
 - **Skills:** Engineering design, prototyping, testing, and iterative improvement.
 
 **[View Project](./Ball%20Sorting%20Project.md)**
+
+### 1.2.6 Charmed Project
+
+Develop and design a small charm based off a costumer's preference and choice in Autodesk Fusion. 
+
+* **[Custom Keychain & Charm Design](./High School/keychain-project/)** - A user-centric parametric CAD project built in Autodesk Fusion.
