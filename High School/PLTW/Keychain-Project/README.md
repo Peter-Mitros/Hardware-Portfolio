@@ -16,9 +16,9 @@ This project involved designing a custom ND logo keychain in Autodesk Fusion acc
 * **Technical Documentation:** Completed a corresponding annotated multiview drawing using CAD software to define orthographic projections and dimensional tolerances.
 
 ## Project Files
-* **Interactive 3D View:** [View and orbit the model live in browser](https://a360.co)
-* **Source CAD File:** [Download nd-keychain.f3d](./nd-keychain.f3d)
-* **Manufacturing File:** [Download nd-keychain.step](./nd-keychain.step)
+## Project Files
+* **Interactive 3D View:** [View and orbit the 3D model in your web browser](https://a360.co)
+* **CAD Source File:** [Download the raw nd-keychain.f3d file](./nd-keychain.f3d)
 
 ## Design Gallery
 
