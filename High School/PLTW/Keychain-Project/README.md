@@ -1,6 +1,7 @@
 # ND Logo Keychain Design
 
-![ND Logo Keychain Isometric View](./isometric-view.png)
+<img width="2400" height="866" alt="isometric-view" src="https://github.com/user-attachments/assets/d44eaf12-ca6c-4067-8e45-4006eeccb27b" />
+
 
 ## Project Overview
 This project involved designing a custom ND logo keychain in Autodesk Fusion according to specific dimensional and manufacturing constraints for a PLTW Engineering assignment. The project required translating graphical characteristics into a 3D model and preparing the file for manufacturing and documentation.
@@ -23,4 +24,5 @@ This project involved designing a custom ND logo keychain in Autodesk Fusion acc
 
 | Isometric View | Multiview Drawing |
 |---|---|
-| ![Isometric View](./isometric-view.png) | ![Multiview Technical Drawing](./multiview-drawing.png) |
+<img width="2400" height="866" alt="isometric-view" src="https://github.com/user-attachments/assets/3092cedd-be21-4977-a590-7e5775fc04c7" /><img width="1138" height="736" alt="image" src="https://github.com/user-attachments/assets/03c26191-2a03-4362-9f91-ad98baca44e5" />
+ | ![Multiview Technical Drawing](./multiview-drawing.png) |
