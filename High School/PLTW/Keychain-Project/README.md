@@ -21,7 +21,7 @@ Isometric View <img width="2400" height="866" alt="isometric-view" src="https://
 Multiview Drawing
  <img width="1138" height="736" alt="image" src="https://github.com/user-attachments/assets/844a51d6-86ba-4ab6-ad65-fb580d7593a7" />
 
-### Process of Creation and Design
+## Process of Creation and Design
 ### Initial Strategy: Measure each line and space precisely and move it into Fusion from a desired picture one by one
- Changes to the Initial Strategy: After testing and finding the foremost strategy to be slow and ineffective in terms of the ratio of workload to time, I found a way to immediately document any image and map it onto Autodesk Fusion's "Design" feature, then from there make it 3D and edit it to fit the constraints of the project, saving a considerable amount of precious time and effort. 
+### Changes to the Initial Strategy: After testing and finding the foremost strategy to be slow and ineffective in terms of the ratio of workload to time, I found a way to immediately document any image and map it onto Autodesk Fusion's "Design" feature, then from there make it 3D and edit it to fit the constraints of the project, saving a considerable amount of precious time and effort. 
  
