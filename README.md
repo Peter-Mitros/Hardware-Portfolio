@@ -28,6 +28,7 @@ I'm a high school student interested in hardware engineering and computer archit
 * **Autodesk Fusion:** Primary tool for 3D modeling, parametric design, and component assemblies.
 * **Technical Sketching:** Proficient in hand-drawn and digital isometric sketches for initial concept layout and spatial planning.
 * **Engineering Drawings:** Experienced in creating standard 3-view orthographic (multiview) projections through PLTW courses, including precise dimensioning, hidden lines, and centerlines.
+* **KiCad:** Basic understanding and intermediate level of skill to design and create vivid desins.
 * **Tinkercad:** Used for foundational 3D design concepts before transitioning to professional engineering software.
 
 ### Programming & Software
